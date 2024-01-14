@@ -1,7 +1,7 @@
 <h1> 👋 Hello, I’m Muneeb Ahmad </h1>
 
 
-- 👀 I’m interested in _Full-Stack Development_
+- 👀 I’m interested in _Full-Stack Development_ and _App-Development_
 - 🌱 I’m currently learning Frameworks and Various Programming Languages
 - 📫 You can reach me _[here](mailto:muneeb@post.com)_
   
